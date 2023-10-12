@@ -1,2 +1,2 @@
 # COP3530-Projects
-projects from Data Structures and Algorithms
+project from Data Structures and Algorithms
